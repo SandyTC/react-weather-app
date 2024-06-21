@@ -17,7 +17,14 @@ export default function App() {
         >
           Github
         </a>
-        , and is hosted on Netlify
+        , and is hosted on{" "}
+        <a
+          href="https://sandys-react-weather.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Netlify
+        </a>
       </footer>
     </div>
   );
