@@ -4,7 +4,7 @@ body {
 }
 
 .App {
-  max-width: 900px;
+  max-width: 800px;
   margin: 30px auto;
 }
 
@@ -17,7 +17,7 @@ body {
 .main-content {
   background: #fff;
   margin: 50px auto;
-  padding: 25px;
+  padding: 15px;
   border-radius: 10px;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
 }
